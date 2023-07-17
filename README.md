@@ -1,4 +1,4 @@
-# GitHub Profile Readme ✨
+# Hello Folks ✨
 
 ## Connect with Me 🤝
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me through the following channels:
