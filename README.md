@@ -27,5 +27,5 @@ Feel free to reach out — questions, collabs, or just vibes welcome!
 
 ---
 
-Made with 🦀 in Coimbatore  
+Made with 🦀  
 Last updated: Feb 2026
