@@ -13,7 +13,7 @@ I'm **Vishnu Vinod** — a Rust enjoyer building fast systems.
 - **[Plateau](https://github.com/VishnuKaniyamvayal/plateau)**  
   3D renderer built with WebGL, Three.js & JavaScript 🎮
   
-- **[Plateau](https://github.com/VishnuKaniyamvayal/plateau)**  
+- **[Droplin](https://github.com/VishnuKaniyamvayal/droplin)**  
   A modern drag-and-drop animation library 🖱
 
 ### 📦 Other Projects
