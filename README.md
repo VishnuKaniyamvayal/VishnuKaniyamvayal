@@ -1,6 +1,6 @@
 # Hello there! 👋✨
 
-I'm **Vishnu Vinod** — a Rust enjoyer building fast systems, neural nets from scratch, and the occasional 3D adventure.
+I'm **Vishnu Vinod** — a Rust enjoyer building fast systems.
 
 ### 🔨 Ongoing Projects
 
@@ -12,6 +12,9 @@ I'm **Vishnu Vinod** — a Rust enjoyer building fast systems, neural nets from 
 
 - **[Plateau](https://github.com/VishnuKaniyamvayal/plateau)**  
   3D renderer built with WebGL, Three.js & JavaScript 🎮
+  
+- **[Plateau](https://github.com/VishnuKaniyamvayal/plateau)**  
+  A modern drag-and-drop animation library 🖱
 
 ### 📦 Other Projects
 
@@ -28,4 +31,4 @@ Feel free to reach out — questions, collabs, or just vibes welcome!
 ---
 
 Made with 🦀  
-Last updated: Feb 2026
+Last updated: Mar 2026
